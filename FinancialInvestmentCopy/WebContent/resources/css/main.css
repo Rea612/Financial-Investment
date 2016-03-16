@@ -1,0 +1,105 @@
+@CHARSET "UTF-8";
+
+
+.formtable {
+	width: 400px;
+	padding: 10px;
+	
+}
+
+input[type=text] {
+	width: 250px;
+	height: 30px;
+}
+input[type=password] {
+	width: 250px;
+	height: 30px;
+}
+textarea {
+	width: 350px;
+	height: 500px;
+}
+
+.label {
+	text-align: center;
+	vertical-align: top;
+	color: #9ACD32;
+	font: bold;
+	font-size: large;
+}
+
+.control {
+	margin-left: 10px;
+}
+.errors{
+	font-size: small;
+	color: grey;
+	margin-left: 10px;
+}
+.offers{
+	padding: 10px;
+	font: bold;
+	color: orange;
+	border: 1px solid grey;
+}
+p.error{
+	color: red;
+}
+.weather{
+	margin-right: 10px;
+	color: lightblue;
+	border: 5px solid pink;
+	font: regular;
+	text-align: center;
+	border-style: dashed;
+	
+	
+}
+
+.stocklist{
+	border: 1px solid grey;
+	border-width: 5px;
+	color:  #9ACD32;
+	font: bold;
+	padding: 10px;
+	font-size: medium;
+}
+.add{
+	color: orange;
+	font: large;
+	
+	
+}
+.stock{
+	color: lightblue;
+	border: 1px solid pink;
+	font: bold;
+	font-size: large;
+}
+h1{
+	color: orange;
+	font: bold;
+	text-align: center;
+	
+}
+body{
+	
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        margin: 0;
+        padding: 0;
+        background-repeat: no-repeat;
+    }
+.text{
+	font: bold;
+	color: #61D961;
+	font-size: medium;
+}
+.stockview{
+	font: bold;
+	color:#FFE4B5;
+	font-size: large;
+}
+}
